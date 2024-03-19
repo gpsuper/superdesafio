@@ -55,7 +55,7 @@ class User
 
     public function logout()
     {
-        session_destroy();
+        Session::destroy();
         header("Location: /");
         exit();
     }

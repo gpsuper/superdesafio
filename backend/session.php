@@ -2,6 +2,9 @@
 
 namespace Backend\Session;
 
+
+/*Session Handler */
+
 class Session
 {
     public static function start()
