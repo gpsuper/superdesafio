@@ -79,7 +79,7 @@ _Caso rejeitado, apontaremos apenas um problema._
 
 #### Utilizar o ponto para que funcione sem menores problemas
 
-**<code> git clone https://github.com/gruposuper/superdesafio . </code>**
+**<code> git clone https://github.com/gpsuper/superdesafio . </code>**
 
 - Para ter acesso abra o link no seu navegador **http://localhost:80**
 
