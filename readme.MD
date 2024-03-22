@@ -30,7 +30,7 @@ O Grupo super tem mais de 10 anos de mercado, somos uma holding com portfólio d
 
 ## 1 - Crie um fork do projeto.
 
-**https://github.com/gruposuper/superdesafio**
+**https://github.com/gpsuper/superdesafio**
 
 ## 2 - Melhore o nosso projeto inicial.
 
